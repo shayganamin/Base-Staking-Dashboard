@@ -5,3 +5,4 @@ feat: add wallet authentication
 feat: create staking dashboard
 feat: display reward statistics
 feat: add transaction history
+feat: support multiple staking pools
