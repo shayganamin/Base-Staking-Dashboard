@@ -3,3 +3,4 @@ A lightweight staking dashboard for the Base network that allows users to monito
 chore: initialize project
 feat: add wallet authentication
 feat: create staking dashboard
+feat: display reward statistics
