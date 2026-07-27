@@ -6,3 +6,4 @@ feat: create staking dashboard
 feat: display reward statistics
 feat: add transaction history
 feat: support multiple staking pools
+fix: improve wallet reconnect
