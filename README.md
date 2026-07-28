@@ -10,3 +10,4 @@ fix: improve wallet reconnect
 refactor: optimize dashboard components
 style: update UI layout
 docs: add setup guide
+test: add dashboard unit tests
