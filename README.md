@@ -8,3 +8,4 @@ feat: add transaction history
 feat: support multiple staking pools
 fix: improve wallet reconnect
 refactor: optimize dashboard components
+style: update UI layout
